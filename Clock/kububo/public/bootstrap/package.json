@@ -76,7 +76,7 @@
     "qunit": "^2.10.1",
     "rollup": "^2.23.0",
     "shelljs": "^0.8.4",
-    "shx": "^0.3.2",
+    "shx": "^0.4.0",
     "sinon": "^7.5.0",
     "stylelint": "^13.6.1",
     "stylelint-config-twbs-bootstrap": "^2.0.3",
