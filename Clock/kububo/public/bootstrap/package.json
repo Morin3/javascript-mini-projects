@@ -75,7 +75,7 @@
     "postcss-cli": "^7.1.1",
     "qunit": "^2.10.1",
     "rollup": "^2.23.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.9.0",
     "shx": "^0.3.2",
     "sinon": "^7.5.0",
     "stylelint": "^13.6.1",
